@@ -1,0 +1,12 @@
+C:\Users\jwarpech\source\repos\Banking\BankingData\bin\Debug\BankingData.dll
+C:\Users\jwarpech\source\repos\Banking\BankingData\bin\Debug\BankingData.pdb
+C:\Users\jwarpech\source\repos\Banking\BankingData\obj\Debug\BankingData.csproj.AssemblyReference.cache
+C:\Users\jwarpech\source\repos\Banking\BankingData\obj\Debug\BankingData.csproj.CoreCompileInputs.cache
+C:\Users\jwarpech\source\repos\Banking\BankingData\obj\Debug\BankingData.dll
+C:\Users\jwarpech\source\repos\Banking\BankingData\obj\Debug\BankingData.pdb
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\BankingData\bin\Debug\BankingData.dll
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\BankingData\bin\Debug\BankingData.pdb
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\BankingData\obj\Debug\BankingData.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\BankingData\obj\Debug\BankingData.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\BankingData\obj\Debug\BankingData.dll
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\BankingData\obj\Debug\BankingData.pdb
