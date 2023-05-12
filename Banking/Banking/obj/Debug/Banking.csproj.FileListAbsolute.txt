@@ -1,0 +1,28 @@
+C:\Users\jwarpech\source\repos\Banking\Banking\bin\Debug\Banking.exe.config
+C:\Users\jwarpech\source\repos\Banking\Banking\bin\Debug\Banking.exe
+C:\Users\jwarpech\source\repos\Banking\Banking\bin\Debug\Banking.pdb
+C:\Users\jwarpech\source\repos\Banking\Banking\obj\Debug\Banking.csproj.AssemblyReference.cache
+C:\Users\jwarpech\source\repos\Banking\Banking\obj\Debug\Banking.csproj.SuggestedBindingRedirects.cache
+C:\Users\jwarpech\source\repos\Banking\Banking\obj\Debug\Banking.frmBanking.resources
+C:\Users\jwarpech\source\repos\Banking\Banking\obj\Debug\Banking.Properties.Resources.resources
+C:\Users\jwarpech\source\repos\Banking\Banking\obj\Debug\Banking.csproj.GenerateResource.cache
+C:\Users\jwarpech\source\repos\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\jwarpech\source\repos\Banking\Banking\obj\Debug\Banking.exe
+C:\Users\jwarpech\source\repos\Banking\Banking\obj\Debug\Banking.pdb
+C:\Users\jwarpech\source\repos\Banking\Banking\bin\Debug\BankingData.dll
+C:\Users\jwarpech\source\repos\Banking\Banking\bin\Debug\BankingData.pdb
+C:\Users\jwarpech\source\repos\Banking\Banking\obj\Debug\Banking.csproj.CopyComplete
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\Banking\bin\Debug\Banking.exe.config
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\Banking\bin\Debug\Banking.exe
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\Banking\bin\Debug\Banking.pdb
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\Banking\bin\Debug\BankingData.dll
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\Banking\bin\Debug\BankingData.pdb
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\Banking\obj\Debug\Banking.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\Banking\obj\Debug\Banking.csproj.SuggestedBindingRedirects.cache
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\Banking\obj\Debug\Banking.frmBanking.resources
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\Banking\obj\Debug\Banking.Properties.Resources.resources
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\Banking\obj\Debug\Banking.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\Banking\obj\Debug\Banking.csproj.CopyComplete
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\Banking\obj\Debug\Banking.exe
+C:\Users\steve\OneDrive\Documents\SAIT et al\Jolanta files\Banking with Unit Testing\Banking\Banking\obj\Debug\Banking.pdb
